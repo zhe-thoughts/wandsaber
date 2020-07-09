@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "PAGE TITLE"
-permalink: /welcome/
+title: "Welcome!"
 ---
 
-# Wand-Saber
-A novel by Caroline and Preston Zhang, combining their loves for Harry Potter and Star Wars. Enjoy!
+# Welcome!
+Wand-Saber is novel by Caroline and Preston Zhang, combining their loves for Harry Potter and Star Wars. Enjoy!
