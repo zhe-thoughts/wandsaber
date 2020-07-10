@@ -1,1 +1,3 @@
-theme: jekyll-theme-leap-day
+name: Preston and Caroline Zhang
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
