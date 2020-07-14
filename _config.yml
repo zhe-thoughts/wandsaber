@@ -1,3 +1,4 @@
 name: Preston and Caroline Zhang
 markdown: kramdown
+source: ./wandsaber
 permalink: /blog/:year/:month/:day/:title
