@@ -6,7 +6,7 @@ title: The Wand-Saber Book!
 <ul class="posts">
 
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="https://zhe-thoughts.github.io/wandsaber{{ post.url }}" title="{{ post.title }}">{{ post.url }}</a></li>
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="https://zhe-thoughts.github.io/wandsaber{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
   {% endfor %}
     
 </ul>
